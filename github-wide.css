@@ -1,3 +1,8 @@
+
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("github.com") {
+
 .container-lg {
   max-width: none !important;
 }
@@ -127,3 +132,4 @@ button.discussion-sidebar-toggle {
   max-width: none;
 }
 
+}
