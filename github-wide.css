@@ -8,6 +8,11 @@
   padding-right: 30px !important;
 }
 
+/* Profile Page */
+.page-profile .pr-3 {
+  max-width: 253px;
+}
+
 /* Repo Next layout */
 
 .repository-content {
